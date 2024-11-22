@@ -13,12 +13,12 @@ img{
     background-color: #FEFBF6;
 }
 h1{
-    font-size: 3rem;
+    font-size: 1rem;
     text-transform: uppercase;
     font-weight: bold;
 }
 h1,h2,h3{
-    font-family: "Pacifico", cursive;
+    font-family: "Montserrat", sans-serif;
 }
 header{
    height: 300px;
